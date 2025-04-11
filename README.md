@@ -1,10 +1,14 @@
 
-See Release for exe. 
+See Release 1.1 for exe. Download zip and run exe. 
 
 Q - Open/Close Inventory
+
 E - Inspect/place batteries in door generator
+
 Right Mouse to collect
+
 Left Mouse to select torch battery in inventory
+
 Z - To use Torch battery
 
 ---------------------------------------------------------
