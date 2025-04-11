@@ -7,7 +7,9 @@ Mechancis Only of Frank Stone Battery Escape
 Start​
 ⬇️​
 Explore the room (Use flashlight to navigate dark areas)​
+
 ⬇️​
+
 Find batteries?​
 ➡️ Torch Battery​
 → Press Right-click to collect​
