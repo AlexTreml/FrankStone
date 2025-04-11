@@ -57,20 +57,19 @@ Door opens → ESCAPE!​
 -------------------------------------------------------
 
 
-Component ​      /                                     Functionality ​
+Key Features:​
 
-Inventory UI ​              /               Tracks collected batteries ​
+Torch batteries recharge flashlight; required for exploration​
 
-Torch Power UI ​             /               Displays torch charge level ​
+Four door batteries must be found and inserted to progress​
 
-Battery Pickup System ​/ Handles battery interactions & UI updates ​
+Flashlight battery drains over time and needs managing​
 
-Torch Drain Logic ​ / Reduces charge over time ​
+Roaming AI enemy chases the player; can be scared away with light​
 
-Door Battery Logic ​  / Tracks inserted batteries, unlocks door ​
+Escape is only possible after activating a lever, unlocked when all door batteries are collected​
 
-Open Door Mechanic ​ / Checks battery count, triggers door animation ​
+Full inventory system with item inspection, usage, and stacking logic​
 
-​
-
+Visual feedback for item use, power levels, and door status​
 ​
