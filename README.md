@@ -1,7 +1,7 @@
 
 See Release for exe. 
 
-
+---------------------------------------------------------
 Mechancis Only of Frank Stone Battery Escape
  
 Start​
@@ -51,6 +51,25 @@ Interact with lever (E)​
 ⬇️​
 
 Door opens → ESCAPE!​
+
+
+
+-------------------------------------------------------
+
+
+Component ​      /                                     Functionality ​
+
+Inventory UI ​              /               Tracks collected batteries ​
+
+Torch Power UI ​             /               Displays torch charge level ​
+
+Battery Pickup System ​/ Handles battery interactions & UI updates ​
+
+Torch Drain Logic ​ / Reduces charge over time ​
+
+Door Battery Logic ​  / Tracks inserted batteries, unlocks door ​
+
+Open Door Mechanic ​ / Checks battery count, triggers door animation ​
 
 ​
 
