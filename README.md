@@ -1,6 +1,12 @@
 
 See Release for exe. 
 
+Q - Open/Close Inventory
+E - Inspect/place batteries in door generator
+Right Mouse to collect
+Left Mouse to select torch battery in inventory
+Z - To use Torch battery
+
 ---------------------------------------------------------
 Mechancis Only of Frank Stone Battery Escape
  
@@ -37,12 +43,12 @@ Torch battery low?​
 
 Enemy encounter?​
 ➡️ Torch BATTERY >0 → Scares enemy away​
-➡️ Torch BATTERY =0→ Enemy chases player​
+➡️ Torch BATTERY =0 → Enemy chases player​
 
 ⬇️​
 
 All 4 door batteries placed?​
-➡️ Yes → Green icon appears​
+➡️ Yes → Green icon appears​ (Lever interaction activated)
 
 ⬇️​
 
